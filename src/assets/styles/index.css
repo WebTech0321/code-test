@@ -1,0 +1,36 @@
+.topic-label { 
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.topic-label.active {
+    color: #0f1ec0;
+}
+
+.topic-title {
+    width: 100%;
+    font-size: 36px;
+    font-weight: 700;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.task-view {
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.task-view.active {
+    background-color: #EEE;
+}
+
+.video-player {
+    width: 180px;
+    height: 80px;
+    border-radius: 8px;
+    background-color: #888;
+}
